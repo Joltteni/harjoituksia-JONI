@@ -1,4 +1,4 @@
-##Ohjelmistotyökalujen harjoitus 1
+## Ohjelmistotyökalujen harjoitus 1
 
 Opintojaksolla on harjoiteltu GitHubin käyttöä.
 
